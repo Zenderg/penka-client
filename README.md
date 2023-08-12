@@ -1,5 +1,7 @@
 # penka
 
+Web studio that has remained a dream...
+
 ## Project setup
 ```
 yarn install
